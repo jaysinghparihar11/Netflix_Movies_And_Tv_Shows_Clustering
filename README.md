@@ -5,29 +5,29 @@ This dataset consists of tv shows and movies available on Netflix as of 2019. Th
 
 # Variables Description
 
-1 - show_id: Unique identifier for each movie/show.
+1 - Show_id: Unique identifier for each movie/show.
 
-2 - type: Indicates whether the entry is a movie or a TV show.
+2 - Type: Indicates whether the entry is a movie or a TV show.
 
-3 - title: Name of the movie or TV show.
+3 - Title: Name of the movie or TV show.
 
-4 - director: Name of the director(s) of the movie or TV show.
+4 - Director: Name of the director(s) of the movie or TV show.
 
-5 - cast: Names of the actors and actresses featured in the movie or TV show.
+5 - Cast: Names of the actors and actresses featured in the movie or TV show.
 
-6 - country: Country or countries where the movie or TV show was produced.
+6 - Country: Country or countries where the movie or TV show was produced.
 
-7 - date_added: Date when the movie or TV show was added to Netflix.
+7 - Date_added: Date when the movie or TV show was added to Netflix.
 
-8 - release_year: Year when the movie or TV show was released.
+8 - Release_year: Year when the movie or TV show was released.
 
-9 - rating: TV rating or movie rating of the movie or TV show.
+9 - Rating: TV rating or movie rating of the movie or TV show.
 
-10 - duration: Length of the movie or TV show in minutes or seasons.
+10 - Duration: Length of the movie or TV show in minutes or seasons.
 
-11 - listed_in: Categories or genres of the movie or TV show.
+11 - Listed_in: Categories or genres of the movie or TV show.
 
-12 - description: Brief synopsis or summary of the movie or TV show.
+12 - Description: Brief synopsis or summary of the movie or TV show.
 
 # Conclusion
 
